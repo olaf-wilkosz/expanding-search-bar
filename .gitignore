@@ -74,3 +74,12 @@ typings/
 
 # FuseBox cache
 .fusebox/
+
+### Firebase ###
+.idea
+**/node_modules/*
+**/.firebaserc
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
