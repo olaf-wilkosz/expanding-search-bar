@@ -11,5 +11,13 @@
       <div class="icon"></div>
       <div class="input"></div>
     </div>
+
+    <script>
+      const icon = document.querySelector('.icon');
+      const search = document.querySelector('.search');
+      icon.onclick = function () {
+        search.classList.toggle('active');
+      };
+    </script>
   </body>
 </html>

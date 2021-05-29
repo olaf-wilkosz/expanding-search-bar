@@ -58,3 +58,7 @@ body {
   background: #2c3e50;
   transform: translate(6px, 8px) rotate(315deg);
 }
+
+.search.active {
+  width: 360px;
+}
