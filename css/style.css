@@ -115,3 +115,13 @@ body {
   background: #7f8c8d;
   transform: rotate(135deg);
 }
+
+@media (max-width: 768px) {
+  body {
+    align-items: flex-start;
+  }
+
+  .search {
+    top: 50px;
+  }
+}
