@@ -1,6 +1,7 @@
 # Expanding Search Bar
 
-### [Live demo](https://ow-expanding-search-bar.firebaseapp.com/ 'Expanding Search Bar')
+### [Live demo @GitHub Pages](https://olaf-wilkosz.github.io/expanding-search-bar/ 'Expanding Search Bar')
+### [Live demo @Firebase](https://ow-expanding-search-bar.firebaseapp.com/ 'Expanding Search Bar')
 
 Built following the tutorial **[Search Bar Using Html CSS & javascript | CSS Expandable Search Box](https://www.youtube.com/watch?v=RctaFustg5w)** by **[Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)**
 
